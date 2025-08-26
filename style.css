@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: "Microsoft YaHei", sans-serif;
+  line-height: 1.6;
+  background: #f4f4f9;
+  color: #333;
+}
+
+header {
+  background: #4a90e2;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+main img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+footer {
+  text-align: center;
+  background: #222;
+  color: #ddd;
+  padding: 1rem;
+  margin-top: 2rem;
+}
